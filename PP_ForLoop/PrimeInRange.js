@@ -20,5 +20,5 @@
             arr.push(i);
         }
     }
-    console.log("Prime numbers in range of "+start+", "+end+" are: "arr);
+    console.log("Prime numbers in range of "+start+", "+end+" are: "+arr);
 }
